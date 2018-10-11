@@ -1,0 +1,11 @@
+1.PRJNA292861_17	(Region=="hipp") & (stress.protocol=="none" | stress.protocol=="CFC")	stress.protocol	Stress.protocol|Region
+#2.PRJNA392171_3	(Region=="hipp_CA3") & (Stress.protocol=="control" | Stress.protocol=="FST")	Stress.protocol	Stress.protocol|Region
+3.PRJNA309704_3	(Region=="hipp") & (Stress.protocol=="30_min_RS" | Stress.protocol=="control")	Stress.protocol	Stress.protocol|Region
+4. PRJNA281134_5	(Region=="hipp_CA1") & (Stress.protocol=="control" | Stress.protocol=="CFC")	Stress.protocol	Stress.protocol|Region
+8.PRJNA401858_3	(Region=="hipp_vDG") & (Stress.protocol=="control" | Stress.protocol=="21d_CRS")	Stress.protocol	Stress.protocol|Region
+9.PRJNA322294_4	(Region=="hipp_ventral") & (Stress.protocol=="control" | Stress.protocol=="10d_CSDS")	Stress.protocol	Stress.protocol|Region
+10.PRJNA267703_12	(Region=="hipp") & (Stress.protocol=="control" | Stress.protocol=="CFC_plus_d2_retrieval")	Stress.protocol	Stress.protocol|Region
+10.PRJNA267703_13	(Region=="hipp") & (Stress.protocol=="control" | Stress.protocol=="CFC")	Stress.protocol	Stress.protocol|Region
+#11. PRJNA341670_3	(Region=="hipp") & (Stress.protocol=="control" | Stress.protocol=="28d_CRS")	Stress.protocol	Stress.protocol|Region
+mus_PRJNA293822_24	(Region=="hipp_ventral") & (Stress.protocol=="control" | Stress.protocol=="10d_CSDS")	Stress.protocol	Stress.protocol|Region
+mus_PRJNA293822_25	(Region=="hipp_ventral") & (Stress.protocol=="control" | Stress.protocol=="4d_acc_CSDS")	Stress.protocol	Stress.protocol|Region

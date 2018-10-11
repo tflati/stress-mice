@@ -1,0 +1,7 @@
+4. PRJNA281134_3	(Region=="pfc_pl") & (Stress.protocol=="control" | Stress.protocol=="CFC")	Stress.protocol	Stress.protocol|Region
+4. PRJNA281134_4	(Region=="pfc_acc") & (Stress.protocol=="control" | Stress.protocol=="CFC")	Stress.protocol	Stress.protocol|Region
+5. PRJNA322593 o PRJNA323485_9	(Region=="pfc") & (Stress.protocol=="control" | Stress.protocol=="10d_CSDS")	Stress.protocol	Stress.protocol|Region
+5. PRJNA322593 o PRJNA323485_10	(Region=="pfc") & (Stress.protocol=="control" | Stress.protocol=="30d_CSDS")	Stress.protocol	Stress.protocol|Region
+9.PRJNA322294_5	(Region=="pfc") & (Stress.protocol=="control" | Stress.protocol=="10d_CSDS")	Stress.protocol	Stress.protocol|Region
+mus_PRJNA293822_27	(Region=="pfc") & (Stress.protocol=="control" | Stress.protocol=="10d_CSDS")	Stress.protocol	Stress.protocol|Region
+multi_mus_PRJNA398031_4	(Region=="pfc") & (Stress.protocol=="control" | Stress.protocol=="21d_CVS")	Stress.protocol	Stress.protocol|Region
