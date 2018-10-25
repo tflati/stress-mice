@@ -1171,7 +1171,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602970",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1217,7 +1217,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602971",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1263,7 +1263,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602972",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1313,7 +1313,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602973",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1359,7 +1359,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602974",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1409,7 +1409,7 @@
                             "source_name": "ventral dentate gyrus",
                             "strain": "C57black 6"
                         },
-                        "bioproject_id": "PRJNA401858",
+                        "bioproject_id": "8.PRJNA401858",
                         "biosample_id": "SAMN07602975",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -1453,11 +1453,11 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA401858",
+            "id": "8.PRJNA401858",
             "papers": [
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA401858/papers/Nasca et al., 2017.pdf"
+                    "url": "data/Stress/8.PRJNA401858/papers/Nasca et al., 2017.pdf"
                 }
             ],
             "tags": [
@@ -1497,7 +1497,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537464",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1552,7 +1552,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537465",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1607,7 +1607,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537466",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1662,7 +1662,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537467",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1717,7 +1717,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537468",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1772,7 +1772,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537469",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1827,7 +1827,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537470",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1882,7 +1882,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537418",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1937,7 +1937,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537419",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -1992,7 +1992,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537420",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2047,7 +2047,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537421",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2102,7 +2102,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537422",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2157,7 +2157,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537423",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2212,7 +2212,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537424",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2267,7 +2267,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537425",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2322,7 +2322,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537426",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2377,7 +2377,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537427",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2432,7 +2432,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537428",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2487,7 +2487,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537429",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2542,7 +2542,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537430",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2597,7 +2597,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537490",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2652,7 +2652,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537491",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2707,7 +2707,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537492",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2762,7 +2762,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537493",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2817,7 +2817,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537504",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2872,7 +2872,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537494",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2927,7 +2927,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537495",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -2982,7 +2982,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537489",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3037,7 +3037,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537500",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3092,7 +3092,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537501",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3147,7 +3147,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537502",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3202,7 +3202,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537503",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3257,7 +3257,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537505",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3312,7 +3312,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537506",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3367,7 +3367,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537507",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3422,7 +3422,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537471",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3477,7 +3477,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537472",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3532,7 +3532,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537473",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3587,7 +3587,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537474",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3642,7 +3642,7 @@
                             "source_name": "Nucleus Accumbens (Nac)",
                             "tissue": "Nucleus Accumbens (Nac)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537496",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3697,7 +3697,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537439",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3752,7 +3752,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537440",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3807,7 +3807,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537497",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3862,7 +3862,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537499",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3917,7 +3917,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537475",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -3972,7 +3972,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537498",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4027,7 +4027,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537433",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4082,7 +4082,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537434",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4137,7 +4137,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537443",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4192,7 +4192,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537435",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4247,7 +4247,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537437",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4302,7 +4302,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537438",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4357,7 +4357,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537436",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4412,7 +4412,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537441",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4467,7 +4467,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537480",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4522,7 +4522,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537442",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4577,7 +4577,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537476",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4632,7 +4632,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537477",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4687,7 +4687,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537478",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4742,7 +4742,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537479",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4797,7 +4797,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537481",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4852,7 +4852,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537482",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4907,7 +4907,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537483",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -4962,7 +4962,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537484",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5017,7 +5017,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537485",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5072,7 +5072,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537486",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5127,7 +5127,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537487",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5182,7 +5182,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537488",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5237,7 +5237,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537444",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5292,7 +5292,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537445",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5347,7 +5347,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537446",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5402,7 +5402,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537447",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5457,7 +5457,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537448",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5512,7 +5512,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537449",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5567,7 +5567,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537450",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5622,7 +5622,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537451",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5677,7 +5677,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537452",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5732,7 +5732,7 @@
                             "source_name": "prefrontal cortex (PFC)",
                             "tissue": "prefrontal cortex (PFC)"
                         },
-                        "bioproject_id": "PRJNA398031",
+                        "bioproject_id": "multi_mus_PRJNA398031",
                         "biosample_id": "SAMN07537453",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -5769,7 +5769,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA398031",
+            "id": "multi_mus_PRJNA398031",
             "papers": [
                 {
                     "id": "28825715",
@@ -5807,7 +5807,7 @@
                             "stress protocol": "FST",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284111",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -5855,7 +5855,7 @@
                             "stress protocol": "None",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284112",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -5903,7 +5903,7 @@
                             "stress protocol": "FST",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284117",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -5951,7 +5951,7 @@
                             "stress protocol": "None",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284118",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -5999,7 +5999,7 @@
                             "stress protocol": "FST",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284114",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6047,7 +6047,7 @@
                             "stress protocol": "None",
                             "tissue": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA392171",
+                        "bioproject_id": "2.PRJNA392171",
                         "biosample_id": "SAMN07284115",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6084,7 +6084,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA392171",
+            "id": "2.PRJNA392171",
             "papers": [
                 {
                     "id": "28993643",
@@ -6117,7 +6117,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007288",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6160,7 +6160,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007289",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6203,7 +6203,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007290",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6246,7 +6246,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007292",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6289,7 +6289,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007293",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6332,7 +6332,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007294",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6375,7 +6375,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007291",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6418,7 +6418,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007295",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6461,7 +6461,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007296",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6504,7 +6504,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "Std - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007321",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6547,7 +6547,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007322",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6590,7 +6590,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007287",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6633,7 +6633,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007297",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6676,7 +6676,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007298",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6719,7 +6719,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007299",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6762,7 +6762,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - CSDS"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007300",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6805,7 +6805,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007301",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6848,7 +6848,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007302",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6891,7 +6891,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007303",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6934,7 +6934,7 @@
                             "strain": "C57BL/6",
                             "stress conditions": "ELS - Ctl"
                         },
-                        "bioproject_id": "PRJNA352967",
+                        "bioproject_id": "7.PRJNA352967",
                         "biosample_id": "SAMN06007304",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -6971,7 +6971,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA352967",
+            "id": "7.PRJNA352967",
             "papers": [
                 {
                     "id": "28619944",
@@ -7008,7 +7008,7 @@
                             "tissue": "Brain",
                             "tissue region": "Pituitary gland"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726797",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7055,7 +7055,7 @@
                             "tissue": "Brain",
                             "tissue region": "Frontal cortex"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726798",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7102,7 +7102,7 @@
                             "tissue": "Brain",
                             "tissue region": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726799",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7149,7 +7149,7 @@
                             "tissue": "Brain",
                             "tissue region": "Pituitary gland"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726800",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7196,7 +7196,7 @@
                             "tissue": "Brain",
                             "tissue region": "Frontal cortex"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726801",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7243,7 +7243,7 @@
                             "tissue": "Brain",
                             "tissue region": "Hippocampus"
                         },
-                        "bioproject_id": "PRJNA341670",
+                        "bioproject_id": "11.PRJNA341670",
                         "biosample_id": "SAMN05726802",
                         "genome": "Rattus norvegicus",
                         "pairedend": true,
@@ -7280,7 +7280,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA341670",
+            "id": "11.PRJNA341670",
             "papers": [
                 {
                     "id": "28780410",
@@ -7317,7 +7317,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509237",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7364,7 +7364,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509228",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7411,7 +7411,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509229",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7458,7 +7458,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509230",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7505,7 +7505,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509231",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7552,7 +7552,7 @@
                             "treatment": "Stress",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509232",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7599,7 +7599,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509233",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7646,7 +7646,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509234",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7693,7 +7693,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509235",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7740,7 +7740,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509236",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7787,7 +7787,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509242",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7834,7 +7834,7 @@
                             "treatment": "Control",
                             "virus": "NA"
                         },
-                        "bioproject_id": "PRJNA336339",
+                        "bioproject_id": "6.PRJNA336339",
                         "biosample_id": "SAMN05509243",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -7871,7 +7871,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA336339",
+            "id": "6.PRJNA336339",
             "papers": [
                 {
                     "id": "26674863",
@@ -7908,7 +7908,7 @@
                             "strain": "C57BL/6",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179113",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -7954,7 +7954,7 @@
                             "strain": "C57Bl/8",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179115",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8000,7 +8000,7 @@
                             "strain": "C57Bl/8",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179115",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8046,7 +8046,7 @@
                             "strain": "C57Bl/7",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179114",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8092,7 +8092,7 @@
                             "strain": "C57Bl/7",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179114",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8138,7 +8138,7 @@
                             "strain": "C57Bl/7",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179114",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8184,7 +8184,7 @@
                             "strain": "C57Bl/7",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179114",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8230,7 +8230,7 @@
                             "strain": "C57BL/6",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179113",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8276,7 +8276,7 @@
                             "strain": "C57BL/6",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179113",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8322,7 +8322,7 @@
                             "strain": "C57Bl/8",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179115",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8368,7 +8368,7 @@
                             "strain": "C57Bl/8",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179115",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8414,7 +8414,7 @@
                             "strain": "C57BL/6",
                             "tissue": "prefrontal cortex"
                         },
-                        "bioproject_id": "PRJNA323485",
+                        "bioproject_id": "5.PRJNA322593 o PRJNA323485",
                         "biosample_id": "SAMN05179113",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8450,11 +8450,11 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA323485",
+            "id": "5.PRJNA322593 o PRJNA323485",
             "papers": [
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA323485/papers/Bondar et al. 2017.pdf"
+                    "url": "data/Stress/5.PRJNA322593 o PRJNA323485/papers/Bondar et al. 2017.pdf"
                 }
             ],
             "tags": [
@@ -8482,7 +8482,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150685",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8524,7 +8524,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150684",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8566,7 +8566,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150683",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8608,7 +8608,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150680",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8650,7 +8650,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150679",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8692,7 +8692,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150678",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8734,7 +8734,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150714",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8776,7 +8776,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150713",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8818,7 +8818,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150710",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8860,7 +8860,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150709",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8902,7 +8902,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150707",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8944,7 +8944,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150704",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -8986,7 +8986,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150703",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9028,7 +9028,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150699",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9070,7 +9070,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150698",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9112,7 +9112,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150697",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9154,7 +9154,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150694",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9196,7 +9196,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150693",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9238,7 +9238,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150690",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9280,7 +9280,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150689",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9322,7 +9322,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150745",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9364,7 +9364,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150744",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9406,7 +9406,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150743",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9448,7 +9448,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150740",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9490,7 +9490,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150739",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9532,7 +9532,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150735",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9574,7 +9574,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150734",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9616,7 +9616,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150730",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9658,7 +9658,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150736",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9700,7 +9700,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150726",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9742,7 +9742,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150725",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9784,7 +9784,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150721",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9826,7 +9826,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150766",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9868,7 +9868,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150765",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9910,7 +9910,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150764",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9952,7 +9952,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150760",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -9994,7 +9994,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150759",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10036,7 +10036,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150756",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10078,7 +10078,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150755",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10120,7 +10120,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150754",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10162,7 +10162,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150750",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10204,7 +10204,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150749",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10246,7 +10246,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150774",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10288,7 +10288,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150773",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10330,7 +10330,7 @@
                             "group": "Susceptible, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150769",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10372,7 +10372,7 @@
                             "group": "Resilient, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150768",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10414,7 +10414,7 @@
                             "group": "Control, saline-treated",
                             "source_name": "Brain tissue"
                         },
-                        "bioproject_id": "PRJNA322294",
+                        "bioproject_id": "9.PRJNA322294",
                         "biosample_id": "SAMN05150767",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -10450,15 +10450,15 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA322294",
+            "id": "9.PRJNA322294",
             "papers": [
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA322294/papers/Bagot et al 2017 suppl_mat.pdf"
+                    "url": "data/Stress/9.PRJNA322294/papers/Bagot et al 2017 suppl_mat.pdf"
                 },
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA322294/papers/Bagot et al 2017.pdf"
+                    "url": "data/Stress/9.PRJNA322294/papers/Bagot et al 2017.pdf"
                 }
             ],
             "tags": [
@@ -10488,7 +10488,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "none"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439361",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10533,7 +10533,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "none"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439360",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10578,7 +10578,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "none"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439359",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10623,7 +10623,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "stress paradigm"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439358",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10668,7 +10668,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "stress paradigm"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439357",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10713,7 +10713,7 @@
                             "strain": "C57BL/6",
                             "treatment group": "stress paradigm"
                         },
-                        "bioproject_id": "PRJNA309704",
+                        "bioproject_id": "3.PRJNA309704",
                         "biosample_id": "SAMN04439356",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10750,7 +10750,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA309704",
+            "id": "3.PRJNA309704",
             "papers": [
                 {
                     "id": "26598390",
@@ -10786,7 +10786,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010259",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10832,7 +10832,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010258",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10878,7 +10878,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010257",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10924,7 +10924,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010256",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -10970,7 +10970,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010255",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11016,7 +11016,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010254",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11062,7 +11062,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010253",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11108,7 +11108,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010252",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11154,7 +11154,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010251",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11200,7 +11200,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010250",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11246,7 +11246,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010249",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11292,7 +11292,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010248",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11338,7 +11338,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010247",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11384,7 +11384,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010246",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11430,7 +11430,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010326",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11476,7 +11476,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010325",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11522,7 +11522,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010324",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11568,7 +11568,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010323",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11614,7 +11614,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010322",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11660,7 +11660,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010321",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11706,7 +11706,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010320",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11752,7 +11752,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010356",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11798,7 +11798,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010355",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11844,7 +11844,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010354",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11890,7 +11890,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010353",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11936,7 +11936,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010352",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -11982,7 +11982,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010351",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12028,7 +12028,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010350",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12074,7 +12074,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010349",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12120,7 +12120,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010348",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12166,7 +12166,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010347",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12212,7 +12212,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010346",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12258,7 +12258,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010345",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12304,7 +12304,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010344",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12350,7 +12350,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010343",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12396,7 +12396,7 @@
                             "timepoint": "48h post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010342",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12442,7 +12442,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010341",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12488,7 +12488,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010340",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12534,7 +12534,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010339",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12580,7 +12580,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010338",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12626,7 +12626,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010337",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12672,7 +12672,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010336",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12718,7 +12718,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010335",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12764,7 +12764,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010334",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12810,7 +12810,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010333",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12856,7 +12856,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010332",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12902,7 +12902,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010331",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12948,7 +12948,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010330",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -12994,7 +12994,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010329",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13040,7 +13040,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010328",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13086,7 +13086,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010327",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13132,7 +13132,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010319",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13178,7 +13178,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010318",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13224,7 +13224,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010317",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13270,7 +13270,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010316",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13316,7 +13316,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010315",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13362,7 +13362,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010314",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13408,7 +13408,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010313",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13454,7 +13454,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010312",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13500,7 +13500,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010311",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13546,7 +13546,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010310",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13592,7 +13592,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010309",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13638,7 +13638,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010308",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13684,7 +13684,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010307",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13730,7 +13730,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010306",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13776,7 +13776,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010305",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13822,7 +13822,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010304",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13868,7 +13868,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010303",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13914,7 +13914,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010296",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -13960,7 +13960,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010295",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14006,7 +14006,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010302",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14052,7 +14052,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010301",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14098,7 +14098,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010300",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14144,7 +14144,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010299",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14190,7 +14190,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010298",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14236,7 +14236,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010297",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14282,7 +14282,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010294",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14328,7 +14328,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010293",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14374,7 +14374,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010292",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14420,7 +14420,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010291",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14466,7 +14466,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010290",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14512,7 +14512,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010289",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14558,7 +14558,7 @@
                             "timepoint": "28d post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010288",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14604,7 +14604,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010287",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14650,7 +14650,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010286",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14696,7 +14696,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010285",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14742,7 +14742,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010284",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14788,7 +14788,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010283",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14834,7 +14834,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010282",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14880,7 +14880,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010281",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14926,7 +14926,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010280",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -14972,7 +14972,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010279",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15018,7 +15018,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010278",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15064,7 +15064,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010277",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15110,7 +15110,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010276",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15156,7 +15156,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010275",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15202,7 +15202,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010274",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15248,7 +15248,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010273",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15294,7 +15294,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010272",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15340,7 +15340,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010271",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15386,7 +15386,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010270",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15432,7 +15432,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010269",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15478,7 +15478,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010268",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15524,7 +15524,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010267",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15570,7 +15570,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010266",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15616,7 +15616,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010265",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15662,7 +15662,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010264",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15708,7 +15708,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010263",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15754,7 +15754,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010262",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15800,7 +15800,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010261",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15846,7 +15846,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010260",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15892,7 +15892,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010245",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15938,7 +15938,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010244",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -15984,7 +15984,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010243",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16030,7 +16030,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010242",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16076,7 +16076,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010241",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16122,7 +16122,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010240",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16168,7 +16168,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010239",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16214,7 +16214,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010238",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16260,7 +16260,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010237",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16306,7 +16306,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010236",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16352,7 +16352,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010235",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16398,7 +16398,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010234",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16444,7 +16444,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010233",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16490,7 +16490,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010232",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16536,7 +16536,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010231",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16582,7 +16582,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010230",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16628,7 +16628,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010229",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16674,7 +16674,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010228",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16720,7 +16720,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010226",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16766,7 +16766,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010225",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16812,7 +16812,7 @@
                             "timepoint": "28d +1h stress post CSDS",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010224",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16858,7 +16858,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010223",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16904,7 +16904,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010222",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16950,7 +16950,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010221",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -16996,7 +16996,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010220",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17042,7 +17042,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010219",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17088,7 +17088,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010218",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17134,7 +17134,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010217",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17180,7 +17180,7 @@
                             "timepoint": "24h post accelerated defeat",
                             "tissue": "brain"
                         },
-                        "bioproject_id": "PRJNA293822",
+                        "bioproject_id": "mus_PRJNA293822",
                         "biosample_id": "SAMN04010216",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17217,7 +17217,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA293822",
+            "id": "mus_PRJNA293822",
             "papers": [
                 {
                     "id": "27181059",
@@ -17255,7 +17255,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487062",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17302,7 +17302,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487061",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17349,7 +17349,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487122",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17396,7 +17396,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487118",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17443,7 +17443,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487117",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17490,7 +17490,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487114",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17537,7 +17537,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487113",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17584,7 +17584,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487106",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17631,7 +17631,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487058",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17678,7 +17678,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487102",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17725,7 +17725,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487101",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17772,7 +17772,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487098",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17819,7 +17819,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487097",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17866,7 +17866,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487094",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17913,7 +17913,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487093",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -17960,7 +17960,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487057",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18007,7 +18007,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487090",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18054,7 +18054,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487089",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18101,7 +18101,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487086",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18148,7 +18148,7 @@
                             "tissue": "Brain-NAc",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487085",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18195,7 +18195,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487081",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18242,7 +18242,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487078",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18289,7 +18289,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487077",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18336,7 +18336,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487074",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18383,7 +18383,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487073",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18430,7 +18430,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487070",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18477,7 +18477,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487066",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18524,7 +18524,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487065",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18571,7 +18571,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487054",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18618,7 +18618,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487053",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18665,7 +18665,7 @@
                             "tissue": "Brain-BLA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487121",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18712,7 +18712,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487110",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18759,7 +18759,7 @@
                             "tissue": "Brain-PrL",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487109",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18806,7 +18806,7 @@
                             "tissue": "Brain-CA1",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487105",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18853,7 +18853,7 @@
                             "tissue": "Brain-ACC",
                             "treatment": "Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487082",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18900,7 +18900,7 @@
                             "tissue": "Brain-CeA",
                             "treatment": "Non-Shocked"
                         },
-                        "bioproject_id": "PRJNA281134",
+                        "bioproject_id": "4.PRJNA281134",
                         "biosample_id": "SAMN03487069",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -18936,11 +18936,11 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA281134",
+            "id": "4.PRJNA281134",
             "papers": [
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA281134/papers/Kao et al. 2016.pdf"
+                    "url": "data/Stress/4.PRJNA281134/papers/Kao et al. 2016.pdf"
                 }
             ],
             "tags": [
@@ -18970,7 +18970,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992901",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19015,7 +19015,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992900",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19060,7 +19060,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992899",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19105,7 +19105,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992898",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19150,7 +19150,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992897",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19195,7 +19195,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992896",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19240,7 +19240,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992895",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19285,7 +19285,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992894",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19330,7 +19330,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992893",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19375,7 +19375,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992892",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19420,7 +19420,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992891",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19465,7 +19465,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992890",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19510,7 +19510,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992889",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19555,7 +19555,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992888",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19600,7 +19600,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992887",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19645,7 +19645,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992886",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19690,7 +19690,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992885",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19735,7 +19735,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992884",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19780,7 +19780,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992883",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19825,7 +19825,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992882",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19870,7 +19870,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992881",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19915,7 +19915,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992880",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -19960,7 +19960,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992879",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20005,7 +20005,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992878",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20050,7 +20050,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992877",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20095,7 +20095,7 @@
                             "time": "4 hr",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992876",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20140,7 +20140,7 @@
                             "time": "30 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992875",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20185,7 +20185,7 @@
                             "time": "10 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992874",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20230,7 +20230,7 @@
                             "time": "5 min",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992873",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20275,7 +20275,7 @@
                             "time": "control",
                             "tissue": "hippocampus"
                         },
-                        "bioproject_id": "PRJNA292861",
+                        "bioproject_id": "1.PRJNA292861",
                         "biosample_id": "SAMN03992872",
                         "genome": "Mus musculus",
                         "pairedend": false,
@@ -20312,7 +20312,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA292861",
+            "id": "1.PRJNA292861",
             "papers": [
                 {
                     "id": "26430118",
@@ -20321,11 +20321,11 @@
                 },
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA292861/papers/Cho et al 2015.pdf"
+                    "url": "data/Stress/1.PRJNA292861/papers/Cho et al 2015.pdf"
                 },
                 {
                     "source": "manual",
-                    "url": "data/Stress/PRJNA292861/papers/Cho et al suppl_mat.pdf"
+                    "url": "data/Stress/1.PRJNA292861/papers/Cho et al suppl_mat.pdf"
                 }
             ],
             "tags": [
@@ -20354,7 +20354,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199574",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20398,7 +20398,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199573",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20442,7 +20442,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199567",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20486,7 +20486,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199566",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20530,7 +20530,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199571",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20574,7 +20574,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199568",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20618,7 +20618,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199569",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20662,7 +20662,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199561",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20706,7 +20706,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199563",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20750,7 +20750,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199565",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20794,7 +20794,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199560",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20838,7 +20838,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199562",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20882,7 +20882,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199572",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20926,7 +20926,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199564",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -20970,7 +20970,7 @@
                             "source_name": "Hippocampus",
                             "strain": "C57BL/6"
                         },
-                        "bioproject_id": "PRJNA267703",
+                        "bioproject_id": "10.PRJNA267703",
                         "biosample_id": "SAMN03199570",
                         "genome": "Mus musculus",
                         "pairedend": true,
@@ -21007,7 +21007,7 @@
                     "type": "experiment"
                 }
             ],
-            "id": "PRJNA267703",
+            "id": "10.PRJNA267703",
             "papers": [
                 {
                     "id": "26202970",

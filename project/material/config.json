@@ -35,6 +35,10 @@
 				{
 					"name": "See differential expression",
 					"url": "see_differential_expression"
+				},
+				{
+					"name": "See differential expression (developing)",
+					"url": "see_differential_expression_dev"
 				}
 			]
 		}, {
@@ -90,11 +94,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -254,11 +258,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -419,11 +423,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -437,11 +441,11 @@
 								{
 									"source_url":"/stress_mice_api/stress_mice/transcripts/BIOPROJECT/",
 									"url":"/stress_mice_api/stress_mice/transcripts/BIOPROJECT/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"transcript_name_sy",
 										"action":"write"
-									},
+									}],
 									"templates": [
 										{
 											"template": "BIOPROJECT",
@@ -589,11 +593,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -628,11 +632,11 @@
 								{
 									"source_url":"/stress_mice_api/stress_mice/features/BIOPROJECT",
 									"url":"/stress_mice_api/stress_mice/features/BIOPROJECT",
-									"onChange":
+									"onChange":[
 									{
 										"key":"feature",
 										"action":"write"
-									},
+									}],
 									"templates": [
 										{
 											"template": "BIOPROJECT",
@@ -779,11 +783,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -796,11 +800,11 @@
 								"data":
 								{
 									"value": 2,
-									"onChange":
+									"onChange":[
 									{
 										"key":"min_fold_change",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -814,11 +818,11 @@
 								"data":
 								{
 									"value": 0.05,
-									"onChange":
+									"onChange":[
 									{
 										"key":"pvalue",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -832,11 +836,243 @@
 								"data":
 								{
 									"value": 0.05,
-									"onChange":
+									"onChange":[
 									{
 										"key":"qvalue",
 										"action":"write"
-									}
+									}]
+								}
+							},
+							{
+								"type": "submit",
+								"key": "submit",
+								"layout": "row",
+								"subtype": "form",
+								"label": "Submit",
+								"action": "nothing",
+								"data": {
+									"source": "see_differential_expression",
+									"onClick": [
+										{
+											"action": "write",
+											"key": "search_started",
+											"value": true
+										}
+									]
+								}
+							}
+						]
+					},
+					{
+	                	"title": "Working examples",
+	                	"show_conditions": [
+							{
+								"arg1": {"key": "search_started", "fx": "value"},
+								"op": "==",
+								"arg2": "undefined"
+							}
+						],
+	                	"subtitle": "Click on the buttons to automatically load a search query",
+	                    "elements": [
+	                    	{
+	                    		"type": "button",
+	                    		"label": "See working example",
+	                    		"title": "Bioproject ",
+	                    		"error_message": "Please fill-in the form on the left",
+	                    		"data": {
+	                    			"image": "imgs/marker-icon.png",
+	                    			"height": "25px",
+	                    			"onClick": [
+		                    			{
+		                    				"key": "bioproject",
+		                    				"value": "PRJNA401858",
+		                    				"action": "write"
+		                    			},
+		                    			{
+		                    				"key": "min_fold_change",
+		                    				"value": 3,
+		                    				"action": "write"
+		                    			}
+		                    		]
+	                    		}
+	                    	}
+	                    ]
+	                }
+				],
+				[
+					{
+						"title": "Summary of your search",
+						"layout": "column",
+						"show_conditions": [
+							{
+								"arg1": {"key": "search_started", "fx": "value"},
+								"op": "==",
+								"arg2": true
+							}
+						],
+						"elements": [
+							{
+								"type": "form_summary",
+								"data": {
+									"source": "see_differential_expression"
+								}
+							},
+							{
+								"type": "spacer"
+							},
+							{
+								"type": "button",
+								"label": "Refine your search",
+								"data": {
+									"onClick": [
+										{
+											"action": "write",
+											"key": "search_started",
+											"value": "undefined"
+										}
+									]
+								}
+							}
+						]
+					}
+				],
+				[
+					{
+						"title": "Results",
+						"layout": "column",
+						"show_conditions": [
+							{
+								"arg1": {"key": "search_started", "fx": "value"},
+								"op": "==",
+								"arg2": true
+							}
+						],
+						"elements": [
+							{
+								"type": "paragraph",
+								"data": {
+									"variable_value": "NUM_RESULTS result(s) found",
+									"templates": [
+										{
+											"template": "NUM_RESULTS",
+											"key": "num_results"
+										}
+									]
+								}
+							},
+							{
+								"type": "paginated-table",
+								"data": {
+									"url": "/stress_mice_api/stress_mice/search_by_diff_fold_expr/",
+									"source": "see_differential_expression",
+									"onReceive": [{
+										"action": "write",
+										"key": "num_results"
+									}]
+								}
+							}
+						]
+					}
+				]
+			]
+		},
+		{
+			"pageID":"see_differential_expression_dev",
+			"title":"See differential expression",
+			"tooltip":"<b>Query example</b>: AWWX01314010.1",
+			"elements": [
+				[
+					{
+						"title": "See differential expression (development)",
+						"layout": "column",
+						"show_conditions": [
+							{
+								"arg1": {"key": "search_started", "fx": "value"},
+								"op": "==",
+								"arg2": "undefined"
+							}
+						],
+						"elements": [
+							{
+								"type": "button",
+								"key": "clear_all",
+								"layout": "row",
+								"label": "Clear all choices",
+								"data": {
+									"onClick": [
+										{
+											"action": "write",
+											"scope": "global",
+											"target": "see_differential_expression_dev.elements.0.0.elements.2.elements",
+											"value": []
+										},
+										{
+											"action": "delete",
+											"scope": "global",
+											"target": "bioproject_ID"
+										}
+									]
+								}
+							},
+							{
+								"label":"Select your BioProject of interest",
+								"key":"bioproject",
+								"layout": "row",
+								"type":"select",
+								"subtype":"form",
+								"required":"true",
+								"data":
+								{
+									"url":"/stress_mice_api/stress_mice/get_projects/",
+									"onChange":[
+									{
+										"key":"bioproject_ID",
+										"action":"write"
+									},
+									{
+										"action": "write",
+										"scope": "global",
+										"target": "see_differential_expression_dev.elements.0.0.elements.2.elements",
+										"value": []
+									}]
+								}
+							},
+							{
+								"key":"criteria",
+								"layout": "column",
+								"layout_align": "start start",
+								"type":"multi",
+								"required":"true",
+								"elements": [],
+								"method": "POST",
+								"data":
+								{
+									"source": "see_differential_expression_dev",
+									"url":"/stress_mice_api/stress_mice/get_criteria/BIOPROJECT/",
+									"templates": [
+										{
+											"template": "BIOPROJECT",
+											"key": "bioproject_ID"
+										}
+									],
+									"onReceive": [
+										{
+											"action": "write",
+											"target": "elements",
+											"scope": "self"
+										},
+										{
+											"action": "write",
+											"scope": "global",
+											"key": "update",
+											"value": "false"
+										}
+									],
+									"onChange": [{
+										"action": "read",
+										"scope": "global",
+										"key": "update"
+									}]
 								}
 							},
 							{
@@ -964,11 +1200,10 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
-									{
+									"onChange": [{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -990,11 +1225,11 @@
 											"target": "url"
 										}
 									],
-									"onChange":
+									"onChange":[
 									{
 										"key":"gene_name_sy",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -1008,11 +1243,11 @@
 								{
 									"source_url": "/stress_mice_api/stress_mice/measures/",
 									"url":"/stress_mice_api/stress_mice/measures/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"measure",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -1026,11 +1261,11 @@
 								{
 									"source_url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
 									"url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"covariate",
 										"action":"write"
-									},
+									}],
 									"templates": [
 										{
 											"template": "BIOPROJECT",
@@ -1186,12 +1421,12 @@
 								"layout_align": "center center",
 								"layout": "row",
 								"data": {
-									"onChange": {
+									"onChange": [{
 										"action":"read",
 										"scope": "global",
 										"key": "plotter_result",
 										"target": "self"
-									}
+									}]
 								}
 							}
 						]
@@ -1225,11 +1460,11 @@
 								"data":
 								{
 									"url":"/stress_mice_api/stress_mice/get_projects/",
-									"onChange":
+									"onChange":[
 									{
 										"key":"bioproject",
 										"action":"write"
-									}
+									}]
 								}
 							},
 							{
@@ -1268,11 +1503,11 @@
 										{
 											"source_url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
 											"url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition1",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "BIOPROJECT",
@@ -1299,11 +1534,11 @@
 										{
 											"url": "/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
 											"source_url": "/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition_value1",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "CONDITION",
@@ -1335,11 +1570,11 @@
 										{
 											"source_url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
 											"url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition2",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "BIOPROJECT",
@@ -1366,11 +1601,11 @@
 										{
 											"source_url":"/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
 											"url":"/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition_value2",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "CONDITION",
@@ -1402,11 +1637,11 @@
 										{
 											"source_url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
 											"url":"/stress_mice_api/stress_mice/covariates/BIOPROJECT/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition3",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "BIOPROJECT",
@@ -1433,11 +1668,11 @@
 										{
 											"source_url":"/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
 											"url":"/stress_mice_api/stress_mice/covariate_values/BIOPROJECT/CONDITION/",
-											"onChange":
+											"onChange":[
 											{
 												"key":"condition_value3",
 												"action":"write"
-											},
+											}],
 											"templates": [
 												{
 													"template": "CONDITION",
@@ -1688,12 +1923,12 @@
 								"method": "POST",
 								"data": {
 									"url": "/stress_mice_api/stress_mice/combinations/",
-									"onChange": {
+									"onChange": [{
 										"action":"read",
 										"scope": "global",
 										"key": "selection_result",
 										"target": "self"
-									},
+									}],
 									"onReceive": [
 										{
 											"action": "write",
@@ -1788,12 +2023,12 @@
 										"type": "dynamic",
 										"width": "70",
 										"data": {
-											"onChange": {
+											"onChange": [{
 												"action":"read",
 												"scope": "global",
 												"key": "expression_file",
 												"target": "self"
-											}
+											}]
 										}
 									}
 								]
@@ -1842,11 +2077,11 @@
 							"type": "dynamic",
 							"data": {
 								"url": "/stress_mice_api/stress_mice/dataset_phenotypic_information/",
-								"onChange": {
+								"onChange": [{
 									"action":"read",
 									"scope": "global",
 									"key": "phenotypic"
-								},
+								}],
 								"onReceive": [
 									{
 										"action": "write",
@@ -1913,7 +2148,7 @@
 								{
 									"type": "paragraph",
 									"data": {
-										"value": "Dept. of Biology e Biotechnology <a target=\"_blank\" href='http://bbcd.bio.uniroma1.it/bbcd/'>C. Darwin</a>: Arianna Rinaldi, Cecilia Mannironi"
+										"value": "Dept. of Biology e Biotechnology <a target=\"_blank\" href='http://bbcd.bio.uniroma1.it/bbcd/'>C. Darwin</a>: Cecilia Mannironi, Andrea Mele, Alberto Oliverio, Arianna Rinaldi"
 									},
 									"inline": "true"
 								}
@@ -1938,7 +2173,7 @@
 								{
 									"type": "paragraph",
 									"data": {
-										"value": "Consorzio interuniversitario italiano <a href='https://www.cineca.it'>CINECA</a>: Giovanni Chillemi, Tiziana Castrignanò, Silvia Gioiosa, Tiziano Flati"
+										"value": "Consorzio interuniversitario italiano <a href='https://www.cineca.it'>CINECA</a>: Tiziana Castrignanò, Giovanni Chillemi, Silvia Gioiosa, Tiziano Flati"
 									},
 									"inline": "true"
 								}

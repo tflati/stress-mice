@@ -7,14 +7,14 @@ import glob
 
 from collections import Counter
 
+from decimal import Decimal
+
 import rpy2
 import rpy2.robjects as robjects
 import rpy2.robjects.packages as rpackages
 import datetime
 from django.core.cache import cache
 from django.conf.locale import bg
-
-from stress_mice.utils import selector
 
 def create_new_image(url, width="100px"):
     return {
@@ -63,6 +63,29 @@ def create_linkable_image(img_url, target_url, tooltip="", width="100px"):
             "link": target_url
         }
     }
+
+def create_select(data, key, label, value=None, url=None, tooltip=""):
+    select = {
+        "type": "select",
+        "key": key,
+        "layout": "row",
+        "layout_align": "start start",
+        "subtype": "form",
+        "data": {},
+        "subdata": [
+        ]
+    }
+    
+    if label != None:
+        select["label"] = label
+    
+    if value != None:
+        select["data"]["value"] = value
+    
+    for x in data:
+        select["subdata"].append(x)
+    
+    return select
     
 def create_new_button(text, url = None, action="link", tooltip=None, img=None, img_height=None, icon=None, icon_color=None, icon_modifiers=None, color=None):
     button =  {
@@ -430,7 +453,7 @@ def get_combinations(request):
                 if col not in options2values:
                     options2values[col] = set()
 
-            condition_formula = selector.parse_condition(selector.tokenize(condition), 0, None)
+            condition_formula = selector.parse_condition(selector.tokenize(condition))
             for leaf in condition_formula.get_leaves():
                 if selector.get_operator(leaf) is None: continue
                 key, value = leaf.split(selector.get_operator(leaf))
@@ -766,7 +789,28 @@ def gene2id():
     with open(os.path.dirname(__file__) + "/utils/genename2id.tsv") as reader:
         for line in reader:
             gene_name, gene_id = line.strip().split("\t")
-            map[gene_name] = gene_id
+            map[gene_name] = {"id": gene_id}
+    
+    with open(os.path.dirname(__file__) + "/utils/Mus_musculus.GRCm38.93.genes.gtf") as reader:
+        for line in reader:
+            fields = line.strip().split("\t")
+            chr, start, end, strand, info = [fields[i] for i in [0,3,4,6,8]]
+            gene_name = None
+            
+            for f in info.split(";"):
+                if "gene_name" in f:
+                    gene_name = f.strip().split(" ")[1].replace("\"", "")
+            
+            if gene_name is not None:
+                
+                if gene_name not in map:
+                    map[gene_name] = {"id": "UNKNOWN"}
+                
+                gene_info = map[gene_name]
+                gene_info["chr"] = "chr" + chr
+                gene_info["start"] = start
+                gene_info["end"] = end
+                gene_info["strand"] = strand
             
     return map
             
@@ -817,6 +861,9 @@ def search_by_diff_fold_expr(request):
             n += 1
             if n == 0:
                 header = line.split(" ")
+                
+                header = [header[0]] + ["Genomic position", "strand"] + header[1:] #+ ["Link to NCBI"]
+                
                 header = [{
                     "label": colname,
                     "title": colname,
@@ -834,7 +881,7 @@ def search_by_diff_fold_expr(request):
                             }
                         ]
                     }
-                } for colname in header+["Link to NCBI"]]
+                } for colname in header]
                 
                 continue
             
@@ -848,20 +895,45 @@ def search_by_diff_fold_expr(request):
             if total <= offset: continue
             if total > offset + limit: continue
             
+            gene_name = fields[0]
+            gene_info = gene2idmap[gene_name]
             row = {}
             for (i, h) in enumerate(header):
-                row[h["label"]] = [{
-                    "type": "text",
-                    "label": fields[i],
-                    "color": "black"
-                }]
+                
+                if i == 0:
+                    value = fields[0]
+                elif i==1:
+                    value = gene_info["chr"] + ":" + gene_info["start"] + "-" + gene_info["end"]
+                elif i==2:
+                    value = gene_info["strand"]
+                elif h["label"] == "pvalue" or h["label"] == "padj":
+                    value = '%.2E' % Decimal(float(fields[i-2]))
+                else:
+                    value = "{0:.2f}".format(round(float(fields[i-2]), 2))
+                
+                if i == 0 and "id" in gene_info:
+                    gene_id = gene_info["id"]
+                    obj = create_new_link("https://www.ncbi.nlm.nih.gov/gene/" + gene_id, value, "See "+value+" in NCBI")
+                elif i == 1:
+                    obj = create_new_link("http://genome.ucsc.edu/cgi-bin/hgTracks?db=mm10&pix=800&position=" + value, value, "See on Genome browser")
+                else: obj = {
+                        "type": "text",
+                        "label": value,
+                        "color": "black"
+                    }
+                
+                row[h["label"]] = []
+                if i==0:
+                    row[h["label"]].append(create_new_image("imgs/gene-icon.png", width="35px"))
+                row[h["label"]].append(obj)
             
-            gene_name = fields[0]
-            row["Link to NCBI"] = []
             
-            if gene_name in gene2idmap:
-                gene_id = gene2idmap[gene_name]
-                row["Link to NCBI"].append(create_linkable_image("imgs/gene-icon.png", "https://www.ncbi.nlm.nih.gov/gene/" + gene_id, tooltip="See the "+gene_name+" gene in NCBI", width="35px"))
+#             row["Link to NCBI"] = []
+            
+#             if gene_name in gene2idmap:
+# #                 gene_info = gene2idmap[gene_name]
+#                 gene_id = gene_info["id"]
+#                 row["Link to NCBI"].append(create_linkable_image("imgs/gene-icon.png", "https://www.ncbi.nlm.nih.gov/gene/" + gene_id, tooltip="See the "+gene_name+" gene in NCBI", width="35px"))
             
             rows.append(row)
             
@@ -1052,14 +1124,13 @@ def get_projects(request):
     results = []
     
     map = load_dataset_info()
-    
 #     for dir in glob.glob(os.path.dirname(__file__) + "/data/*"):
 #         if os.path.isdir(dir):
 
-    for bioproject_id in map:
+    for bioproject_id in sorted(map.keys(), key=lambda x: int(x.split(".")[0]) if "." in x else int(x.split("PRJNA")[1])):
 #             name = os.path.basename(dir)
         results.append(create_entry(bioproject_id, bioproject_id, "imgs/project.png"))
-        
+    
     return HttpResponse(json.dumps(results))
 
 def simple_genes(request):
@@ -1296,4 +1367,88 @@ def phenodata_info(request, bioproject_id):
         }
         add_element_to_multi_element(multielement, chart)        
         
-    return HttpResponse(json.dumps(multielement))    
+    return HttpResponse(json.dumps(multielement))
+
+from stress_mice.utils import selector
+def get_criteria(request):
+    data = json.loads(request.body.decode('utf-8'))
+    print(data)
+    bioproject = data["bioproject"]
+    del data["bioproject"]
+    
+    # Build old choices
+    response = []
+    for (key,value) in data.items():
+        select = create_select([{"id": value, "label": str(value)}], label=key, value={"id": value, "label": str(value)}, key=key)
+        select["data"]["onChange"] = [{
+            "key": key,
+            "action":"write",
+            "scope": "global"
+        },{
+            "action": "write",
+            "scope": "global",
+            "key": "update",
+            "value": "true"
+        }]
+        response.append(select)
+    response.sort(key=lambda x: x["key"])
+    
+    # Build new choices (if any!)
+    user_filter = None
+    user_filter_clauses = []
+    user_filter_keys = set()
+    for (key,value) in data.items():
+        user_filter_clauses.append(value)
+        (k, v) = value.split("==")
+        user_filter_keys.add(k)
+    print("ALREADY USED", user_filter_keys)
+    
+    if user_filter_clauses:
+        user_filter = "(" + " & ".join(["("+str(x)+")" for x in user_filter_clauses]) + ")"
+    print("FILTER", user_filter_clauses, user_filter)
+    
+    new_choices = set()
+    counts = Counter()
+    conditions = selector.select(os.path.dirname(__file__) + "/data/configurations.tsv", user_filter, bioproject, only_leaves=False, output_other_clauses_only=True)
+    for condition in conditions:
+        for clause in condition:
+            counts[clause] += 1
+            (k, v) = clause.split("==")
+            if v.replace("\"", "").startswith("control"): continue
+            
+            if k not in user_filter_keys:
+                new_choices.add(clause)
+
+    print("CONDITIONS", len(conditions))
+    print("COUNTS", counts)
+    for c in counts:
+        if counts[c] == len(conditions) and c in new_choices:
+            new_choices.remove(c)
+                
+    new_choices = sorted(new_choices)
+    
+    if len(conditions) > 1 and len(new_choices) > 0:
+        new_key = "Criterion"+str(len(response)+1)
+        select = create_select([{"id": x, "label": x} for x in new_choices], label=new_key, key=new_key)
+        select["data"]["onChange"] = [{
+                "key": new_key,
+                "action":"write",
+                "scope": "global"
+            },{
+            "action": "write",
+            "scope": "global",
+            "key": "update",
+            "value": "true"
+        }]
+        response.append(select)
+    
+    print("RESPONSE", response)
+        
+    return HttpResponse(json.dumps(response))
+
+
+
+
+
+
+

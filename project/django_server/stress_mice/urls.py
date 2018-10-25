@@ -44,5 +44,6 @@ urlpatterns = [
     url(r'^bioproject/([^/]*)/', views.bioproject),
     url(r'^papers/([^/]*)/', views.papers),
     url(r'^data_info/([^/]*)/', views.data_info),
-    url(r'^phenodata_info/([^/]*)/', views.phenodata_info)
+    url(r'^phenodata_info/([^/]*)/', views.phenodata_info),
+    url(r'^get_criteria/', views.get_criteria),
 ]
